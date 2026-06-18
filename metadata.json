@@ -1,0 +1,6 @@
+{
+  "name": "Billetes de Español | Իսպաներենի Տոմսեր",
+  "description": "Իսպաներենի քննական տոմսեր հնարավոր պատասխաններով, հայերեն թարգմանությամբ և ինքնաստուգմամբ։ / Spanish practice tickets from Armenian context with smart answer checking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
